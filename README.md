@@ -29,7 +29,7 @@ A simple and intuitive Todo List app built with React Native and Expo, designed 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/react-native-expo-todo.git
+   git clone https://github.com/FAZAL418/Task2__RN__TodoList.git
 Change to the project directory:
 
 bash
