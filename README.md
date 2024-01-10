@@ -31,34 +31,27 @@ A simple and intuitive Todo List app built with React Native and Expo, designed 
    ```bash
    git clone https://github.com/FAZAL418/Task2__RN__TodoList.git
 Change to the project directory:
-
-bash
-Copy code
 cd react-native-expo-todo
-Install dependencies:
 
-bash
-Copy code
+Install dependencies:
 npm install
+
 Running the App
 Start the Expo development server:
-
-bash
-Copy code
 expo start
+
 This will open a new tab in your default web browser displaying a QR code. You can scan this QR code using the Expo Go app on your mobile device to run the app.
-
 Usage
-Add a New Task:
 
+Add a New Task:
 Type the task in the input field.
 Press "Add Task" to add it to the list.
 Edit a Task:
-
 Tap on the task text to enter edit mode.
 Modify the task text and press "Save" to confirm changes.
 Delete a Task:
-
 Tap on the "Delete" button next to a task to remove it.
+
+
 Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, feel free to create an issue or submit a pull request.
