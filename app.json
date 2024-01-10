@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "TodoList",
+    "slug": "TodoList",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "84f2b112-2f60-45bd-a6d3-f10febb38583"
+      }
+    }
+  },
+  "name": "TodoList"
+}
